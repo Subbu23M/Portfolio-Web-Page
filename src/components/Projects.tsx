@@ -5,7 +5,7 @@ const Projects = () => {
     {
       title: "WNO News Portal - Web Application",
       description: "Developed a role-based admin news portal from scratch using a Figma design, enabling reporters, editors, and admins to securely log in, post, review, and publish news content. Integrated AWS for hosting and storage, with dynamic views and full CRUD functionality tailored to each user role.",
-      technologies: ["React", "Node.js", "MongoDB", "Redux-Toolkit", "JWT", "Material-UI","Lazy Loading","Code Splitting","React Fragmen","Local Storage","Protected Routes"],
+      technologies: ["React", "Node.js", "MongoDB", "Redux-Toolkit", "JWT", "Material-UI","Lazy Loading","Code Splitting","React Fragment","Local Storage","Protected Routes"],
       image: "https://lh3.googleusercontent.com/d/1AHBNCVgpbYlapt9crXA-a_a8YkRDTeoK",
       demo: "https://drive.google.com/file/d/1Z6juz8a-fNWUviKrgFH3LT_rP1_ssbRw/view?usp=sharing",
       icon: <Globe className="w-5 h-5" />
